@@ -1,0 +1,24 @@
+Horizon line
+
+h = [0.0002; −0.0005; −1.0000]
+
+Vanishing point 1
+
+vp =  1.0e+03 * [0.0977; 6.6308; 0.0010]
+
+Vanishing point 2
+
+vp2 = 1.0e+04 * [4.2808; 1.5450; 0.0001]
+
+Image of the cylinder axis
+
+a = [-0.0004; -0.0001; 1.0000]
+
+Calibration matrix
+
+K = 1.0e+03 * [8.3344, 0,      0.0977;
+     	       0,      2.6781, 1.3611;
+               0,      0,      0.0010; ]
+
+
+
